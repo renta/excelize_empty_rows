@@ -1,0 +1,2 @@
+The purpose of this repository is to demonstrate a weird behaviour of the [Excelize](https://github.com/qax-os/excelize) package 
+in parsing of xlsx-file via an iterator. The problem is that there are 1980 empty rows after the last with a content.
